@@ -1,0 +1,11 @@
+Package: RWOAG
+Type: Package
+Title: Performs a Random Walk on a Graph
+Version: 1.0
+Date: 2011-06-07
+Author: James Perkins, Ian Morilla
+Maintainer: James Perkins <jperkins@biochem.ucl.ac.uk>
+Description: Performs random walk on a graph, as implemented by Kohler et al., (pmid:18371930)
+Depends: R(>= 2.12.0), graph
+License: LGPL-3
+LazyLoad: yes

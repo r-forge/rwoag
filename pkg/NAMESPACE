@@ -1,0 +1,2 @@
+export(randomWalk, randomWalk.matrix, randomWalk.graphNEL)
+importClassesFrom(graph)
